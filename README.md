@@ -10,7 +10,7 @@ I'm a Computer Science student at York University, passionate about developing i
 - 🌐 Exploring **cloud computing** and **web development**
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/justin-valle-amaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-valle-amaya)
 
 # 💻 Tech Stack:
 Languages: 
